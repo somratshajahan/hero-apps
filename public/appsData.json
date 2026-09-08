@@ -1,0 +1,2720 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "TaskMaster Pro",
+    "companyName": "Apex Digital Tools",
+    "description": "Boost your productivity with intuitive task management, AI-driven scheduling, and seamless team collaboration.",
+    "size": 45,
+    "reviews": 12450,
+    "ratingAvg": 4.6,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 950 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 7800 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "PixelCraft Studio",
+    "companyName": "Creative Byte Lab",
+    "description": "A powerful mobile graphic editor featuring professional filters, vector layers, and quick export capabilities.",
+    "size": 120,
+    "reviews": 8300,
+    "ratingAvg": 4.3,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 410 },
+      { "name": "2 star", "count": 290 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 4700 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "FitPulse Tracker",
+    "companyName": "HealthTech Solutions",
+    "description": "Track your daily steps, heart rate, sleep cycles, and personalized workout routines in one place.",
+    "size": 68,
+    "reviews": 34200,
+    "ratingAvg": 4.8,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 26000 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "CipherVault VPN",
+    "companyName": "Shield Sec Tech",
+    "description": "Protect your online privacy with military-grade encryption, strict no-logs policy, and ultra-fast global servers.",
+    "size": 32,
+    "reviews": 19800,
+    "ratingAvg": 4.7,
+    "downloads": 850000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 3600 },
+      { "name": "5 star", "count": 15000 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "Zenith Budget Planner",
+    "companyName": "FinSmart Apps",
+    "description": "Take control of your finances with automated expense tracking, custom budget goals, and insightful reports.",
+    "size": 28,
+    "reviews": 5600,
+    "ratingAvg": 4.4,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 190 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 3000 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "Nebula Horizon",
+    "companyName": "Starlight Interactive",
+    "description": "Embark on an epic space exploration journey across procedurally generated galaxies with real-time multiplayer combat.",
+    "size": 850,
+    "reviews": 42100,
+    "ratingAvg": 4.5,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 27000 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "LingoSprint",
+    "companyName": "Polyglot Labs",
+    "description": "Learn over 30 languages fast using gamified micro-lessons, speech recognition, and real conversational scenarios.",
+    "size": 95,
+    "reviews": 28900,
+    "ratingAvg": 4.7,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 21000 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "Aura Mindfulness",
+    "companyName": "Inner Peace Inc.",
+    "description": "Reduce stress and improve focus with guided daily meditations, ambient sleep sounds, and breathing exercises.",
+    "size": 52,
+    "reviews": 15300,
+    "ratingAvg": 4.9,
+    "downloads": 620000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 320 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "Chronos Calendar",
+    "companyName": "Apex Digital Tools",
+    "description": "Smart calendar app featuring time blocking, event scheduling, and integration with major cloud services.",
+    "size": 38,
+    "reviews": 9200,
+    "ratingAvg": 4.2,
+    "downloads": 310000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "VectorVibe",
+    "companyName": "Creative Byte Lab",
+    "description": "Professional vector illustration suite built for creators, designers, and digital artists on mobile.",
+    "size": 145,
+    "reviews": 11300,
+    "ratingAvg": 4.5,
+    "downloads": 420000,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "CalorieSmart",
+    "companyName": "HealthTech Solutions",
+    "description": "AI-powered meal scanner that instantly calculates calories, macros, and nutrition values.",
+    "size": 55,
+    "reviews": 21500,
+    "ratingAvg": 4.6,
+    "downloads": 780000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 14000 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "GuardKey Pass",
+    "companyName": "Shield Sec Tech",
+    "description": "Zero-knowledge password manager generating end-to-end encrypted passwords across devices.",
+    "size": 24,
+    "reviews": 14200,
+    "ratingAvg": 4.8,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 650 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 10500 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "CryptoGlobe",
+    "companyName": "FinSmart Apps",
+    "description": "Real-time cryptocurrency portfolio tracker with instant price alerts, news feeds, and market analytics.",
+    "size": 42,
+    "reviews": 18400,
+    "ratingAvg": 4.1,
+    "downloads": 520000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "Shadow Realm RPG",
+    "companyName": "Starlight Interactive",
+    "description": "Dark fantasy action RPG with intense hack-and-slash combat and immersive storylines.",
+    "size": 1200,
+    "reviews": 65000,
+    "ratingAvg": 4.7,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 14000 },
+      { "name": "5 star", "count": 45000 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "VocabBoost",
+    "companyName": "Polyglot Labs",
+    "description": "Master advanced vocabulary through spaced repetition flashcards and native audio pronunciations.",
+    "size": 60,
+    "reviews": 7800,
+    "ratingAvg": 4.4,
+    "downloads": 290000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 4500 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "SleepScape",
+    "companyName": "Inner Peace Inc.",
+    "description": "Fall asleep faster with scientifically backed binaural beats, bedtime stories, and white noise.",
+    "size": 78,
+    "reviews": 11200,
+    "ratingAvg": 4.6,
+    "downloads": 480000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "DocuScan Express",
+    "companyName": "Apex Digital Tools",
+    "description": "Turn your phone into a portable scanner with OCR text recognition and PDF signature support.",
+    "size": 30,
+    "reviews": 41000,
+    "ratingAvg": 4.8,
+    "downloads": 2300000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 30000 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "MotionFX Video",
+    "companyName": "Creative Byte Lab",
+    "description": "Create cinematic videos using keyframe animation, green screen effects, and speed ramping.",
+    "size": 210,
+    "reviews": 16500,
+    "ratingAvg": 4.2,
+    "downloads": 670000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1900 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 9000 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "HydrateNow",
+    "companyName": "HealthTech Solutions",
+    "description": "Smart water intake reminder with custom goal setting and progress charts.",
+    "size": 18,
+    "reviews": 4300,
+    "ratingAvg": 4.5,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 410 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 2500 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "AppLocker Max",
+    "companyName": "Shield Sec Tech",
+    "description": "Secure private applications using fingerprint, PIN, or face recognition locks.",
+    "size": 15,
+    "reviews": 23000,
+    "ratingAvg": 4.3,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 14000 }
+    ]
+  },
+  {
+    "id": 21,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "StockVision",
+    "companyName": "FinSmart Apps",
+    "description": "Real-time stock market tracker with technical indicators, expert analysis, and alerts.",
+    "size": 36,
+    "reviews": 8900,
+    "ratingAvg": 4.4,
+    "downloads": 340000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "id": 22,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "Pixel Legends",
+    "companyName": "Starlight Interactive",
+    "description": "Retro 8-bit style multiplayer dungeon crawler with infinite loot combinations.",
+    "size": 310,
+    "reviews": 29800,
+    "ratingAvg": 4.6,
+    "downloads": 1400000,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "id": 23,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "KanjiFlow",
+    "companyName": "Polyglot Labs",
+    "description": "Interactive Japanese stroke-order guide with mnemonic cards for rapid learning.",
+    "size": 72,
+    "reviews": 6100,
+    "ratingAvg": 4.8,
+    "downloads": 210000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 4500 }
+    ]
+  },
+  {
+    "id": 24,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "BreatheWell",
+    "companyName": "Inner Peace Inc.",
+    "description": "Box breathing and stress-relief exercises tailored for anxiety management.",
+    "size": 22,
+    "reviews": 5100,
+    "ratingAvg": 4.7,
+    "downloads": 190000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 340 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 3500 }
+    ]
+  },
+  {
+    "id": 25,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "QuickNotes Pro",
+    "companyName": "Apex Digital Tools",
+    "description": "Lightweight markdown note-taking app with instant synchronization across cloud platforms.",
+    "size": 19,
+    "reviews": 17800,
+    "ratingAvg": 4.5,
+    "downloads": 820000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "id": 26,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "AudioBlend Studio",
+    "companyName": "Creative Byte Lab",
+    "description": "Multi-track audio recording and editing tool with studio-quality sound effects.",
+    "size": 180,
+    "reviews": 9400,
+    "ratingAvg": 4.1,
+    "downloads": 310000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4500 }
+    ]
+  },
+  {
+    "id": 27,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "YogaFlex 360",
+    "companyName": "HealthTech Solutions",
+    "description": "Daily yoga practices for beginners and experts with detailed video instructions.",
+    "size": 110,
+    "reviews": 21200,
+    "ratingAvg": 4.9,
+    "downloads": 980000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 17000 }
+    ]
+  },
+  {
+    "id": 28,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "NetShield Antivirus",
+    "companyName": "Shield Sec Tech",
+    "description": "Real-time malware protection, WiFi security scanner, and anti-phishing defense.",
+    "size": 48,
+    "reviews": 38000,
+    "ratingAvg": 4.4,
+    "downloads": 1900000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 24000 }
+    ]
+  },
+  {
+    "id": 29,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "InvoiceMaker Pro",
+    "companyName": "FinSmart Apps",
+    "description": "Create professional invoices, estimate costs, and track payments on the go.",
+    "size": 31,
+    "reviews": 10500,
+    "ratingAvg": 4.6,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 6500 }
+    ]
+  },
+  {
+    "id": 30,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "Galaxy Warfare",
+    "companyName": "Starlight Interactive",
+    "description": "Command space fleets in massive tactical sci-fi strategy battles against global players.",
+    "size": 940,
+    "reviews": 51000,
+    "ratingAvg": 4.3,
+    "downloads": 2600000,
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 4700 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 30000 }
+    ]
+  },
+  {
+    "id": 31,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "GrammarPilot",
+    "companyName": "Polyglot Labs",
+    "description": "AI writing assistant checking grammar, tone, and clarity for emails and documents.",
+    "size": 40,
+    "reviews": 16700,
+    "ratingAvg": 4.5,
+    "downloads": 710000,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 11000 }
+    ]
+  },
+  {
+    "id": 32,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "Serene Nature Sounds",
+    "companyName": "Inner Peace Inc.",
+    "description": "Relax with high-definition rainforest, ocean, and thunderstorm soundscapes.",
+    "size": 88,
+    "reviews": 7300,
+    "ratingAvg": 4.8,
+    "downloads": 320000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 320 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 5500 }
+    ]
+  },
+  {
+    "id": 33,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "PDF Signer & Edit",
+    "companyName": "Apex Digital Tools",
+    "description": "Easily fill forms, sign documents, and annotate PDF files with high precision.",
+    "size": 34,
+    "reviews": 22100,
+    "ratingAvg": 4.4,
+    "downloads": 990000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 5600 },
+      { "name": "5 star", "count": 13000 }
+    ]
+  },
+  {
+    "id": 34,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "FontMaster Studio",
+    "companyName": "Creative Byte Lab",
+    "description": "Access thousands of custom fonts and typography tools for visual content creators.",
+    "size": 65,
+    "reviews": 4800,
+    "ratingAvg": 4.2,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 620 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 2500 }
+    ]
+  },
+  {
+    "id": 35,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "Pedometer Go",
+    "companyName": "HealthTech Solutions",
+    "description": "Battery-friendly step counter tracking distance, calories, and daily goals.",
+    "size": 16,
+    "reviews": 31000,
+    "ratingAvg": 4.7,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 6500 },
+      { "name": "5 star", "count": 22000 }
+    ]
+  },
+  {
+    "id": 36,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "CleanDrive Pro",
+    "companyName": "Shield Sec Tech",
+    "description": "Clean junk files, manage storage space, and boost device speed with one tap.",
+    "size": 21,
+    "reviews": 45000,
+    "ratingAvg": 4.3,
+    "downloads": 2800000,
+    "ratings": [
+      { "name": "1 star", "count": 2100 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 4500 },
+      { "name": "4 star", "count": 11000 },
+      { "name": "5 star", "count": 26000 }
+    ]
+  },
+  {
+    "id": 37,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "TaxHelper Lite",
+    "companyName": "FinSmart Apps",
+    "description": "Track deductible expenses, manage receipts, and prepare for tax filing season.",
+    "size": 40,
+    "reviews": 6200,
+    "ratingAvg": 4.5,
+    "downloads": 220000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 440 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  },
+  {
+    "id": 38,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "Cyber Racer 2088",
+    "companyName": "Starlight Interactive",
+    "description": "High-speed futuristic racing game featuring custom vehicle tuning and neon tracks.",
+    "size": 1100,
+    "reviews": 58000,
+    "ratingAvg": 4.6,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 1400 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 3200 },
+      { "name": "4 star", "count": 12500 },
+      { "name": "5 star", "count": 40000 }
+    ]
+  },
+  {
+    "id": 39,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "SpeakSpanish Express",
+    "companyName": "Polyglot Labs",
+    "description": "Learn conversational Spanish in 30 days using real-life dialogue simulations.",
+    "size": 85,
+    "reviews": 14100,
+    "ratingAvg": 4.7,
+    "downloads": 580000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "id": 40,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "MindPal Journal",
+    "companyName": "Inner Peace Inc.",
+    "description": "Private mental health journal featuring AI emotion tracking and reflection prompts.",
+    "size": 33,
+    "reviews": 8700,
+    "ratingAvg": 4.8,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 320 },
+      { "name": "4 star", "count": 1700 },
+      { "name": "5 star", "count": 6500 }
+    ]
+  },
+  {
+    "id": 41,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "ZipExtractor Pro",
+    "companyName": "Apex Digital Tools",
+    "description": "Extract and compress ZIP, RAR, and 7Z archives with password protection support.",
+    "size": 22,
+    "reviews": 19500,
+    "ratingAvg": 4.3,
+    "downloads": 890000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 650 },
+      { "name": "3 star", "count": 1850 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "id": 42,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "3D Canvas Mobile",
+    "companyName": "Creative Byte Lab",
+    "description": "Sculpt and render 3D models directly on mobile devices with intuitive touch controls.",
+    "size": 320,
+    "reviews": 10200,
+    "ratingAvg": 4.4,
+    "downloads": 390000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "id": 43,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "KetoDiet Tracker",
+    "companyName": "HealthTech Solutions",
+    "description": "Comprehensive ketogenic meal planner, carb calculator, and recipe guide.",
+    "size": 46,
+    "reviews": 13400,
+    "ratingAvg": 4.5,
+    "downloads": 510000,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3300 },
+      { "name": "5 star", "count": 8500 }
+    ]
+  },
+  {
+    "id": 44,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "PrivacyBrowser X",
+    "companyName": "Shield Sec Tech",
+    "description": "Ultra-fast web browser with built-in ad blocker and tracking script prevention.",
+    "size": 29,
+    "reviews": 27500,
+    "ratingAvg": 4.6,
+    "downloads": 1300000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 19000 }
+    ]
+  },
+  {
+    "id": 45,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "PayFlow Wallet",
+    "companyName": "FinSmart Apps",
+    "description": "Digital wallet for contactless mobile payments and peer-to-peer money transfers.",
+    "size": 50,
+    "reviews": 32000,
+    "ratingAvg": 4.2,
+    "downloads": 1700000,
+    "ratings": [
+      { "name": "1 star", "count": 1800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 18000 }
+    ]
+  },
+  {
+    "id": 46,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "Fantasy Tactics",
+    "companyName": "Starlight Interactive",
+    "description": "Turn-based tactical strategy game with anime graphics and hundreds of playable heroes.",
+    "size": 780,
+    "reviews": 44000,
+    "ratingAvg": 4.5,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 11000 },
+      { "name": "5 star", "count": 28000 }
+    ]
+  },
+  {
+    "id": 47,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "HanziMaster",
+    "companyName": "Polyglot Labs",
+    "description": "Learn Chinese Mandarin characters with AI handwriting feedback and audio drills.",
+    "size": 89,
+    "reviews": 11000,
+    "ratingAvg": 4.8,
+    "downloads": 430000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 8000 }
+    ]
+  },
+  {
+    "id": 48,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "FocusPulse Pomodoro",
+    "companyName": "Inner Peace Inc.",
+    "description": "Productivity timer utilizing the Pomodoro technique to enhance concentration.",
+    "size": 17,
+    "reviews": 9800,
+    "ratingAvg": 4.7,
+    "downloads": 410000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "id": 49,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "CloudSync Drive",
+    "companyName": "Apex Digital Tools",
+    "description": "Secure cloud storage platform offering 15GB free backup space and easy link sharing.",
+    "size": 42,
+    "reviews": 54000,
+    "ratingAvg": 4.4,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 4500 },
+      { "name": "4 star", "count": 14000 },
+      { "name": "5 star", "count": 32000 }
+    ]
+  },
+  {
+    "id": 50,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "PhotoGlow Filters",
+    "companyName": "Creative Byte Lab",
+    "description": "Retro preset filters, light leaks, and aesthetic photo effects for social media.",
+    "size": 98,
+    "reviews": 26000,
+    "ratingAvg": 4.3,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2900 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 14000 }
+    ]
+  },
+  {
+    "id": 51,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "FastWorkout 7Min",
+    "companyName": "HealthTech Solutions",
+    "description": "High-intensity 7-minute daily workouts designed for busy schedules without equipment.",
+    "size": 40,
+    "reviews": 18200,
+    "ratingAvg": 4.6,
+    "downloads": 820000,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4400 },
+      { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "id": 52,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "SecureVault Gallery",
+    "companyName": "Shield Sec Tech",
+    "description": "Hide private photos and videos inside a password-protected encrypted vault.",
+    "size": 20,
+    "reviews": 29000,
+    "ratingAvg": 4.5,
+    "downloads": 1400000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 7500 },
+      { "name": "5 star", "count": 18000 }
+    ]
+  },
+  {
+    "id": 53,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "BillSplitter Go",
+    "companyName": "FinSmart Apps",
+    "description": "Split group expenses, dining bills, and shared rent effortlessly with friends.",
+    "size": 16,
+    "reviews": 4900,
+    "ratingAvg": 4.7,
+    "downloads": 170000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 3400 }
+    ]
+  },
+  {
+    "id": 54,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "Dungeon Crawler X",
+    "companyName": "Starlight Interactive",
+    "description": "Procedurally generated roguelike action crawler featuring hundreds of monster types.",
+    "size": 450,
+    "reviews": 36000,
+    "ratingAvg": 4.4,
+    "downloads": 1600000,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 22000 }
+    ]
+  },
+  {
+    "id": 55,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "FrenchMaster Audio",
+    "companyName": "Polyglot Labs",
+    "description": "Immersive French language learning with native accent coaching and grammar tests.",
+    "size": 92,
+    "reviews": 12800,
+    "ratingAvg": 4.6,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 850 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 8400 }
+    ]
+  },
+  {
+    "id": 56,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "ZenGardener",
+    "companyName": "Inner Peace Inc.",
+    "description": "Virtual plant care and virtual relaxing garden simulator to promote daily mindfulness.",
+    "size": 115,
+    "reviews": 8400,
+    "ratingAvg": 4.8,
+    "downloads": 310000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 340 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 6400 }
+    ]
+  },
+  {
+    "id": 57,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "SmartClipboard",
+    "companyName": "Apex Digital Tools",
+    "description": "Save clipboard history, store text snippets, and sync copied data seamlessly across devices.",
+    "size": 12,
+    "reviews": 15000,
+    "ratingAvg": 4.5,
+    "downloads": 640000,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3400 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "id": 58,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "LogoDesign Express",
+    "companyName": "Creative Byte Lab",
+    "description": "Create modern business logos instantly using thousands of customizable vector templates.",
+    "size": 75,
+    "reviews": 19200,
+    "ratingAvg": 4.2,
+    "downloads": 810000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 5200 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "id": 59,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "PostureGuard",
+    "companyName": "HealthTech Solutions",
+    "description": "AI posture correction alert system using front camera analysis during desk work.",
+    "size": 44,
+    "reviews": 6100,
+    "ratingAvg": 4.4,
+    "downloads": 230000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 490 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 3500 }
+    ]
+  },
+  {
+    "id": 60,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "WifiGuard Scanner",
+    "companyName": "Shield Sec Tech",
+    "description": "Detect unauthorized users on your local network and test speed stability.",
+    "size": 18,
+    "reviews": 21000,
+    "ratingAvg": 4.3,
+    "downloads": 920000,
+    "ratings": [
+      { "name": "1 star", "count": 850 },
+      { "name": "2 star", "count": 650 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 5500 },
+      { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "id": 61,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "TradePulse Mobile",
+    "companyName": "FinSmart Apps",
+    "description": "Forex and commodities trading platform featuring automated signals and charts.",
+    "size": 58,
+    "reviews": 11500,
+    "ratingAvg": 4.0,
+    "downloads": 480000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 950 },
+      { "name": "3 star", "count": 2150 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 4500 }
+    ]
+  },
+  {
+    "id": 62,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "Mech Brawl Arenas",
+    "companyName": "Starlight Interactive",
+    "description": "Assemble custom giant robots and battle players worldwide in real-time 3v3 arenas.",
+    "size": 890,
+    "reviews": 48000,
+    "ratingAvg": 4.6,
+    "downloads": 2200000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 11000 },
+      { "name": "5 star", "count": 32000 }
+    ]
+  },
+  {
+    "id": 63,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "GermanPro Flashcards",
+    "companyName": "Polyglot Labs",
+    "description": "Master German grammar, case endings, and core vocabulary through active recall.",
+    "size": 64,
+    "reviews": 7900,
+    "ratingAvg": 4.7,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 5500 }
+    ]
+  },
+  {
+    "id": 64,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "CalmSpace Mood",
+    "companyName": "Inner Peace Inc.",
+    "description": "Log daily emotional triggers and practice cognitive behavioral therapy techniques.",
+    "size": 29,
+    "reviews": 9300,
+    "ratingAvg": 4.8,
+    "downloads": 370000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 340 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "id": 65,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "FileCommander",
+    "companyName": "Apex Digital Tools",
+    "description": "Dual-pane mobile file manager with root access, SMB sharing, and cloud integration.",
+    "size": 26,
+    "reviews": 33000,
+    "ratingAvg": 4.5,
+    "downloads": 1600000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 8400 },
+      { "name": "5 star", "count": 21000 }
+    ]
+  },
+  {
+    "id": 66,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "PixelArt Maker",
+    "companyName": "Creative Byte Lab",
+    "description": "Create classic retro pixel art, sprites, and animations with easy grid controls.",
+    "size": 35,
+    "reviews": 14200,
+    "ratingAvg": 4.6,
+    "downloads": 590000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 870 },
+      { "name": "4 star", "count": 3400 },
+      { "name": "5 star", "count": 9500 }
+    ]
+  },
+  {
+    "id": 67,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "CycleTracker Period",
+    "companyName": "HealthTech Solutions",
+    "description": "Private menstrual cycle tracking with ovulation predictions and health insights.",
+    "size": 38,
+    "reviews": 42000,
+    "ratingAvg": 4.9,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 34000 }
+    ]
+  },
+  {
+    "id": 68,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "SecureSMS Encrypt",
+    "companyName": "Shield Sec Tech",
+    "description": "End-to-end encrypted messaging app supporting auto-deleting text messages.",
+    "size": 27,
+    "reviews": 16800,
+    "ratingAvg": 4.4,
+    "downloads": 750000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 1350 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 10500 }
+    ]
+  },
+  {
+    "id": 69,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "SubTracker Pro",
+    "companyName": "FinSmart Apps",
+    "description": "Monitor monthly recurring subscriptions, auto-renewals, and upcoming payment dates.",
+    "size": 23,
+    "reviews": 5700,
+    "ratingAvg": 4.5,
+    "downloads": 210000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 420 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 3600 }
+    ]
+  },
+  {
+    "id": 70,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "Kingdom Siege 3D",
+    "companyName": "Starlight Interactive",
+    "description": "Build medieval castles, recruit armies, and lay siege to rival fortresses.",
+    "size": 710,
+    "reviews": 39000,
+    "ratingAvg": 4.3,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 1800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 9500 },
+      { "name": "5 star", "count": 23000 }
+    ]
+  },
+  {
+    "id": 71,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "Italiano Flash",
+    "companyName": "Polyglot Labs",
+    "description": "Rapidly learn key Italian phrases and pronunciation for upcoming vacations.",
+    "size": 52,
+    "reviews": 6800,
+    "ratingAvg": 4.6,
+    "downloads": 240000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 440 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 4600 }
+    ]
+  },
+  {
+    "id": 72,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "WhiteNoise Sleep",
+    "companyName": "Inner Peace Inc.",
+    "description": "Customizable sound machine featuring fan noises, pink noise, and soothing hums.",
+    "size": 45,
+    "reviews": 10400,
+    "ratingAvg": 4.7,
+    "downloads": 460000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 550 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "id": 73,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "SmartCalculator 3D",
+    "companyName": "Apex Digital Tools",
+    "description": "Advanced scientific and graphing calculator supporting complex equations.",
+    "size": 25,
+    "reviews": 21000,
+    "ratingAvg": 4.7,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4300 },
+      { "name": "5 star", "count": 15000 }
+    ]
+  },
+  {
+    "id": 74,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "Thumbnail Studio",
+    "companyName": "Creative Byte Lab",
+    "description": "Design eye-catching video thumbnails for YouTube and social video platforms.",
+    "size": 82,
+    "reviews": 17400,
+    "ratingAvg": 4.3,
+    "downloads": 720000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1900 },
+      { "name": "4 star", "count": 4600 },
+      { "name": "5 star", "count": 9500 }
+    ]
+  },
+  {
+    "id": 75,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "BloodPressure Log",
+    "companyName": "HealthTech Solutions",
+    "description": "Record daily blood pressure readings and export detailed reports for your physician.",
+    "size": 24,
+    "reviews": 15600,
+    "ratingAvg": 4.5,
+    "downloads": 680000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3700 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "id": 76,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "VaultBrowser Private",
+    "companyName": "Shield Sec Tech",
+    "description": "Incognito browser with automatic session clearing upon exit and pin lock.",
+    "size": 18,
+    "reviews": 13200,
+    "ratingAvg": 4.4,
+    "downloads": 550000,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3300 },
+      { "name": "5 star", "count": 8000 }
+    ]
+  },
+  {
+    "id": 77,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "TipCalculator Pro",
+    "companyName": "FinSmart Apps",
+    "description": "Calculate restaurant gratuities instantly and split payments with dining partners.",
+    "size": 11,
+    "reviews": 3800,
+    "ratingAvg": 4.6,
+    "downloads": 140000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 230 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 2600 }
+    ]
+  },
+  {
+    "id": 78,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "SpaceSurvivals",
+    "companyName": "Starlight Interactive",
+    "description": "Gather resources and craft oxygen generators to survive on a hostile alien planet.",
+    "size": 620,
+    "reviews": 27000,
+    "ratingAvg": 4.4,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 7200 },
+      { "name": "5 star", "count": 16000 }
+    ]
+  },
+  {
+    "id": 79,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "Nihongo Master",
+    "companyName": "Polyglot Labs",
+    "description": "Comprehensive JLPT test prep suite featuring listening comprehension drills.",
+    "size": 105,
+    "reviews": 14500,
+    "ratingAvg": 4.8,
+    "downloads": 520000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 550 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 11000 }
+    ]
+  },
+  {
+    "id": 80,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "DailyReflect CBT",
+    "companyName": "Inner Peace Inc.",
+    "description": "Guided daily journaling tool using proven cognitive restructuring methods.",
+    "size": 26,
+    "reviews": 6900,
+    "ratingAvg": 4.7,
+    "downloads": 260000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 5100 }
+    ]
+  },
+  {
+    "id": 81,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "BatchResizer",
+    "companyName": "Apex Digital Tools",
+    "description": "Compress and resize hundreds of image files simultaneously without losing quality.",
+    "size": 21,
+    "reviews": 8900,
+    "ratingAvg": 4.3,
+    "downloads": 360000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 850 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 5200 }
+    ]
+  },
+  {
+    "id": 82,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "ColorPalette Generator",
+    "companyName": "Creative Byte Lab",
+    "description": "Extract aesthetic color schemes from images or create custom hex code palettes.",
+    "size": 19,
+    "reviews": 11200,
+    "ratingAvg": 4.6,
+    "downloads": 490000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 750 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 7500 }
+    ]
+  },
+  {
+    "id": 83,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "MacroCounter AI",
+    "companyName": "HealthTech Solutions",
+    "description": "Scan barcodes and log daily protein, carbohydrate, and fat ratios effortlessly.",
+    "size": 49,
+    "reviews": 23400,
+    "ratingAvg": 4.6,
+    "downloads": 910000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 16000 }
+    ]
+  },
+  {
+    "id": 84,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "MalwareStriker",
+    "companyName": "Shield Sec Tech",
+    "description": "Deep system scanner eliminating spy software, adware, and hidden trojans.",
+    "size": 39,
+    "reviews": 31000,
+    "ratingAvg": 4.2,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 1800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 3200 },
+      { "name": "4 star", "count": 7800 },
+      { "name": "5 star", "count": 17000 }
+    ]
+  },
+  {
+    "id": 85,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "CashFlow Manager",
+    "companyName": "FinSmart Apps",
+    "description": "Track business cash flows, daily expenses, and generate profit/loss statements.",
+    "size": 33,
+    "reviews": 7400,
+    "ratingAvg": 4.4,
+    "downloads": 290000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 4400 }
+    ]
+  },
+  {
+    "id": 86,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "Starship Commanders",
+    "companyName": "Starlight Interactive",
+    "description": "Engage in tactical 1v1 fleet battles against players in real-time space battles.",
+    "size": 670,
+    "reviews": 33000,
+    "ratingAvg": 4.5,
+    "downloads": 1400000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 21000 }
+    ]
+  },
+  {
+    "id": 87,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "DeutschLernen",
+    "companyName": "Polyglot Labs",
+    "description": "Master beginner German syntax through interactive quizzes and speaking drills.",
+    "size": 70,
+    "reviews": 9800,
+    "ratingAvg": 4.6,
+    "downloads": 390000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 650 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 6500 }
+    ]
+  },
+  {
+    "id": 88,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "Peaceful Sleep Tales",
+    "companyName": "Inner Peace Inc.",
+    "description": "Soothing audio sleep stories narrated by calm voices to ease insomnia.",
+    "size": 95,
+    "reviews": 12100,
+    "ratingAvg": 4.8,
+    "downloads": 510000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 390 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 9000 }
+    ]
+  },
+  {
+    "id": 89,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "SmartUnzip",
+    "companyName": "Apex Digital Tools",
+    "description": "Fast archive viewer supporting encrypted file formats with cloud import options.",
+    "size": 17,
+    "reviews": 14000,
+    "ratingAvg": 4.2,
+    "downloads": 610000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3400 },
+      { "name": "5 star", "count": 8000 }
+    ]
+  },
+  {
+    "id": 90,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "FilterStudio HD",
+    "companyName": "Creative Byte Lab",
+    "description": "Professional photo filter creator with tone curve editing and grain tools.",
+    "size": 88,
+    "reviews": 15900,
+    "ratingAvg": 4.4,
+    "downloads": 670000,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 4300 },
+      { "name": "5 star", "count": 9500 }
+    ]
+  },
+  {
+    "id": 91,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "HomeWorkout NoEquip",
+    "companyName": "HealthTech Solutions",
+    "description": "Targeted bodyweight training plans for home fitness without special gear.",
+    "size": 52,
+    "reviews": 28000,
+    "ratingAvg": 4.7,
+    "downloads": 1300000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 5800 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "id": 92,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "EncryptedNotes",
+    "companyName": "Shield Sec Tech",
+    "description": "AES-256 encrypted note application keeping personal passwords and codes safe.",
+    "size": 16,
+    "reviews": 11500,
+    "ratingAvg": 4.6,
+    "downloads": 470000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 650 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 8000 }
+    ]
+  },
+  {
+    "id": 93,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "AssetTracker",
+    "companyName": "FinSmart Apps",
+    "description": "Consolidate real estate, bank accounts, and investments into one net worth graph.",
+    "size": 35,
+    "reviews": 4600,
+    "ratingAvg": 4.5,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 340 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 2800 }
+    ]
+  },
+  {
+    "id": 94,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "Pixel Survival MMO",
+    "companyName": "Starlight Interactive",
+    "description": "Craft items, build shelters, and battle monsters in a retro multiplayer sandbox.",
+    "size": 380,
+    "reviews": 41000,
+    "ratingAvg": 4.4,
+    "downloads": 1900000,
+    "ratings": [
+      { "name": "1 star", "count": 1300 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 3200 },
+      { "name": "4 star", "count": 9600 },
+      { "name": "5 star", "count": 26000 }
+    ]
+  },
+  {
+    "id": 95,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "RussianIn2Weeks",
+    "companyName": "Polyglot Labs",
+    "description": "Master the Cyrillic alphabet and essential Russian phrases with audio exercises.",
+    "size": 78,
+    "reviews": 8300,
+    "ratingAvg": 4.5,
+    "downloads": 320000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 5200 }
+    ]
+  },
+  {
+    "id": 96,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "MindfulBreathing",
+    "companyName": "Inner Peace Inc.",
+    "description": "Visual breathing pacer supporting heart rate variability training and relaxation.",
+    "size": 21,
+    "reviews": 5900,
+    "ratingAvg": 4.7,
+    "downloads": 220000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 4300 }
+    ]
+  },
+  {
+    "id": 97,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "SmartScanner PDF",
+    "companyName": "Apex Digital Tools",
+    "description": "High-resolution document scanner featuring auto edge detection and batch processing.",
+    "size": 32,
+    "reviews": 27000,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 6500 },
+      { "name": "5 star", "count": 18000 }
+    ]
+  },
+  {
+    "id": 98,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "SketchBook Pro Mobile",
+    "companyName": "Creative Byte Lab",
+    "description": "Digital drawing and painting canvas with realistic brush engine and layer support.",
+    "size": 135,
+    "reviews": 38000,
+    "ratingAvg": 4.5,
+    "downloads": 1700000,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 3100 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 24000 }
+    ]
+  },
+  {
+    "id": 99,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "HeartPulse Meter",
+    "companyName": "HealthTech Solutions",
+    "description": "Measure your pulse using camera sensor technology and monitor heart trends.",
+    "size": 25,
+    "reviews": 19400,
+    "ratingAvg": 4.2,
+    "downloads": 880000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 5200 },
+      { "name": "5 star", "count": 10500 }
+    ]
+  },
+  {
+    "id": 100,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "AntiSpy Guard",
+    "companyName": "Shield Sec Tech",
+    "description": "Identify spyware, mic listeners, and camera trackers accessing your device.",
+    "size": 28,
+    "reviews": 22000,
+    "ratingAvg": 4.5,
+    "downloads": 990000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 5200 },
+      { "name": "5 star", "count": 14000 }
+    ]
+  },
+  {
+    "id": 101,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "SmartReceipt Tracker",
+    "companyName": "FinSmart Apps",
+    "description": "Scan paper receipts with OCR to automatically log business expenses.",
+    "size": 29,
+    "reviews": 8100,
+    "ratingAvg": 4.4,
+    "downloads": 310000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 4770 }
+    ]
+  },
+  {
+    "id": 102,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "Infinite Galaxy Fleet",
+    "companyName": "Starlight Interactive",
+    "description": "Build space stations and manage planetary colonies across online server systems.",
+    "size": 910,
+    "reviews": 46000,
+    "ratingAvg": 4.3,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 2100 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 4200 },
+      { "name": "4 star", "count": 11200 },
+      { "name": "5 star", "count": 27000 }
+    ]
+  },
+  {
+    "id": 103,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "ArabicPro Flashcards",
+    "companyName": "Polyglot Labs",
+    "description": "Master Modern Standard Arabic script and vocabulary using active recall.",
+    "size": 81,
+    "reviews": 9400,
+    "ratingAvg": 4.7,
+    "downloads": 380000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 490 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 6600 }
+    ]
+  },
+  {
+    "id": 104,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "ZenTimer Meditate",
+    "companyName": "Inner Peace Inc.",
+    "description": "Minimalist meditation timer featuring singing bowl chimes and progress logs.",
+    "size": 15,
+    "reviews": 6100,
+    "ratingAvg": 4.8,
+    "downloads": 240000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 4700 }
+    ]
+  },
+  {
+    "id": 105,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "SmartRuler AR",
+    "companyName": "Apex Digital Tools",
+    "description": "Measure distances, room dimensions, and objects accurately using AR camera tech.",
+    "size": 41,
+    "reviews": 16300,
+    "ratingAvg": 4.1,
+    "downloads": 730000,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 8000 }
+    ]
+  },
+  {
+    "id": 106,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "VideoCut Express",
+    "companyName": "Creative Byte Lab",
+    "description": "Fast video trimmer, joiner, and background music editor designed for mobile clips.",
+    "size": 92,
+    "reviews": 24000,
+    "ratingAvg": 4.4,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 6700 },
+      { "name": "5 star", "count": 14000 }
+    ]
+  },
+  {
+    "id": 107,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "SleepCycle Monitor",
+    "companyName": "HealthTech Solutions",
+    "description": "Analyze sleep stages through acoustic monitoring and wake up during light sleep.",
+    "size": 42,
+    "reviews": 31500,
+    "ratingAvg": 4.6,
+    "downloads": 1400000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 6700 },
+      { "name": "5 star", "count": 22000 }
+    ]
+  },
+  {
+    "id": 108,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "FolderGuard Lock",
+    "companyName": "Shield Sec Tech",
+    "description": "Password protect specific device folders and hide confidential data files.",
+    "size": 19,
+    "reviews": 12800,
+    "ratingAvg": 4.3,
+    "downloads": 580000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3700 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "id": 109,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "CryptoWallet Shield",
+    "companyName": "FinSmart Apps",
+    "description": "Self-custody multi-chain crypto wallet supporting tokens, dApps, and NFTs.",
+    "size": 54,
+    "reviews": 18900,
+    "ratingAvg": 4.5,
+    "downloads": 790000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 4700 },
+      { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "id": 110,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "Neon Runner 2099",
+    "companyName": "Starlight Interactive",
+    "description": "Fast-paced endless cyberpunk runner featuring synthwave music and obstacle dodges.",
+    "size": 280,
+    "reviews": 52000,
+    "ratingAvg": 4.7,
+    "downloads": 2900000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 2800 },
+      { "name": "4 star", "count": 11700 },
+      { "name": "5 star", "count": 36000 }
+    ]
+  },
+  {
+    "id": 111,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "KoreanSpeak Express",
+    "companyName": "Polyglot Labs",
+    "description": "Learn Hangul alphabet fast with interactive pronunciation and conversational lessons.",
+    "size": 86,
+    "reviews": 21000,
+    "ratingAvg": 4.8,
+    "downloads": 920000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 15500 }
+    ]
+  },
+  {
+    "id": 112,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "StressRelief Games",
+    "companyName": "Inner Peace Inc.",
+    "description": "Collection of satisfying anti-stress mini-games, pop-its, and fidget simulations.",
+    "size": 65,
+    "reviews": 17800,
+    "ratingAvg": 4.4,
+    "downloads": 810000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "id": 113,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "SmartCompress PDF",
+    "companyName": "Apex Digital Tools",
+    "description": "Reduce large PDF document size for faster email sharing without quality loss.",
+    "size": 23,
+    "reviews": 11400,
+    "ratingAvg": 4.5,
+    "downloads": 520000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 870 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "id": 114,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "CollageGrid Studio",
+    "companyName": "Creative Byte Lab",
+    "description": "Combine multiple photos into creative layouts using grids and customizable frames.",
+    "size": 58,
+    "reviews": 29000,
+    "ratingAvg": 4.3,
+    "downloads": 1300000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 3100 },
+      { "name": "4 star", "count": 7800 },
+      { "name": "5 star", "count": 16000 }
+    ]
+  },
+  {
+    "id": 115,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "FastWorkout Cardio",
+    "companyName": "HealthTech Solutions",
+    "description": "High-energy cardio routines designed to maximize fat burn in short intervals.",
+    "size": 48,
+    "reviews": 14200,
+    "ratingAvg": 4.6,
+    "downloads": 610000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 970 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 9000 }
+    ]
+  },
+  {
+    "id": 116,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "AdGuard Browser Pro",
+    "companyName": "Shield Sec Tech",
+    "description": "Block popups, banner ads, and malware downloads during web browsing.",
+    "size": 31,
+    "reviews": 36000,
+    "ratingAvg": 4.7,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 25000 }
+    ]
+  },
+  {
+    "id": 117,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "ExpenseLog Easy",
+    "companyName": "FinSmart Apps",
+    "description": "Simple daily income and expense tracker with pie chart visualization.",
+    "size": 18,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": 390000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5500 }
+    ]
+  },
+  {
+    "id": 118,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "DragonSlayer Online",
+    "companyName": "Starlight Interactive",
+    "description": "Join guild raids and defeat massive mythical dragons in this mobile MMORPG.",
+    "size": 1400,
+    "reviews": 71000,
+    "ratingAvg": 4.5,
+    "downloads": 3800000,
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 17000 },
+      { "name": "5 star", "count": 45000 }
+    ]
+  },
+  {
+    "id": 119,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "SpeakItaliano Quick",
+    "companyName": "Polyglot Labs",
+    "description": "Practical audio courses focusing on everyday Italian conversations and travel.",
+    "size": 68,
+    "reviews": 5400,
+    "ratingAvg": 4.6,
+    "downloads": 190000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 360 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 3500 }
+    ]
+  },
+  {
+    "id": 120,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "DailyMeditation Zen",
+    "companyName": "Inner Peace Inc.",
+    "description": "10-minute daily mindfulness sessions tailored to build long-term habits.",
+    "size": 34,
+    "reviews": 13500,
+    "ratingAvg": 4.8,
+    "downloads": 580000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "id": 121,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "SmartText OCR Scanner",
+    "companyName": "Apex Digital Tools",
+    "description": "Extract editable text from printed books and images instantly.",
+    "size": 27,
+    "reviews": 18200,
+    "ratingAvg": 4.4,
+    "downloads": 810000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 4800 },
+      { "name": "5 star", "count": 11000 }
+    ]
+  },
+  {
+    "id": 122,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "RawPhoto Camera",
+    "companyName": "Creative Byte Lab",
+    "description": "Manual camera controls including ISO, shutter speed, manual focus, and RAW output.",
+    "size": 45,
+    "reviews": 11800,
+    "ratingAvg": 4.5,
+    "downloads": 490000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 7200 }
+    ]
+  },
+  {
+    "id": 123,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "WaterTracker Hydrate",
+    "companyName": "HealthTech Solutions",
+    "description": "Set personalized hydration reminders based on weather and physical activity level.",
+    "size": 22,
+    "reviews": 9200,
+    "ratingAvg": 4.6,
+    "downloads": 410000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 650 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "id": 124,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "AppLock Master",
+    "companyName": "Shield Sec Tech",
+    "description": "Lock gallery, social media, and system settings using pin or pattern lock.",
+    "size": 17,
+    "reviews": 25000,
+    "ratingAvg": 4.3,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 5600 },
+      { "name": "5 star", "count": 15000 }
+    ]
+  },
+  {
+    "id": 125,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "InterestCalc Pro",
+    "companyName": "FinSmart Apps",
+    "description": "Calculate compound interest, mortgage payments, and investment growth scenarios.",
+    "size": 14,
+    "reviews": 4100,
+    "ratingAvg": 4.7,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 230 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 2800 }
+    ]
+  },
+  {
+    "id": 126,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "Starship Battles 3D",
+    "companyName": "Starlight Interactive",
+    "description": "Tactical space fleet simulator featuring custom warship designs.",
+    "size": 790,
+    "reviews": 29000,
+    "ratingAvg": 4.4,
+    "downloads": 1300000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 7900 },
+      { "name": "5 star", "count": 17000 }
+    ]
+  },
+  {
+    "id": 127,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "KanjiFlash Drills",
+    "companyName": "Polyglot Labs",
+    "description": "Spaced repetition practice app built specifically for JLPT Kanji mastery.",
+    "size": 61,
+    "reviews": 5900,
+    "ratingAvg": 4.8,
+    "downloads": 210000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 4400 }
+    ]
+  },
+  {
+    "id": 128,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "Serenity Meditate",
+    "companyName": "Inner Peace Inc.",
+    "description": "Guided breathing sessions and mindfulness courses for anxiety relief.",
+    "size": 39,
+    "reviews": 11000,
+    "ratingAvg": 4.7,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 490 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 8000 }
+    ]
+  },
+  {
+    "id": 129,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "SmartNotes Organizer",
+    "companyName": "Apex Digital Tools",
+    "description": "Organize notes, checklists, and voice memos into color-coded folders.",
+    "size": 25,
+    "reviews": 21000,
+    "ratingAvg": 4.5,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 5500 },
+      { "name": "5 star", "count": 13000 }
+    ]
+  },
+  {
+    "id": 130,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "ChromaPreset Studio",
+    "companyName": "Creative Byte Lab",
+    "description": "Import and export Lightroom DNG presets for photo editing on mobile.",
+    "size": 52,
+    "reviews": 13800,
+    "ratingAvg": 4.3,
+    "downloads": 580000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 1450 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 7500 }
+    ]
+  },
+  {
+    "id": 131,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "BodyWeight Fitness",
+    "companyName": "HealthTech Solutions",
+    "description": "Calisthenics workout routines designed to build strength without weights.",
+    "size": 58,
+    "reviews": 22500,
+    "ratingAvg": 4.8,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 17000 }
+    ]
+  },
+  {
+    "id": 132,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "PassShield Vault",
+    "companyName": "Shield Sec Tech",
+    "description": "Encrypted offline password manager utilizing local device authentication.",
+    "size": 18,
+    "reviews": 9800,
+    "ratingAvg": 4.7,
+    "downloads": 410000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "id": 133,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "CryptoPrice Tracker",
+    "companyName": "FinSmart Apps",
+    "description": "Track bitcoin and altcoin market valuation with customizable widgets.",
+    "size": 29,
+    "reviews": 12400,
+    "ratingAvg": 4.3,
+    "downloads": 520000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 3700 },
+      { "name": "5 star", "count": 6500 }
+    ]
+  },
+  {
+    "id": 134,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "Pixel Dungeon Heroes",
+    "companyName": "Starlight Interactive",
+    "description": "Turn-based retro RPG dungeon crawler with thousands of loot drops.",
+    "size": 310,
+    "reviews": 35000,
+    "ratingAvg": 4.6,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 8700 },
+      { "name": "5 star", "count": 23000 }
+    ]
+  },
+  {
+    "id": 135,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "MandarinCards Pro",
+    "companyName": "Polyglot Labs",
+    "description": "Master HSK vocabulary with spaced repetition flashcards and native audio.",
+    "size": 89,
+    "reviews": 11200,
+    "ratingAvg": 4.7,
+    "downloads": 480000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 550 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 8000 }
+    ]
+  },
+  {
+    "id": 136,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "NatureFocus Ambience",
+    "companyName": "Inner Peace Inc.",
+    "description": "High-quality ambient sound generator to boost study and work focus.",
+    "size": 72,
+    "reviews": 8100,
+    "ratingAvg": 4.8,
+    "downloads": 340000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 1700 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "id": 137,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "FastConverter File",
+    "companyName": "Apex Digital Tools",
+    "description": "Convert images, audio, video, and document formats instantly on your phone.",
+    "size": 38,
+    "reviews": 24000,
+    "ratingAvg": 4.4,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 6600 },
+      { "name": "5 star", "count": 14000 }
+    ]
+  },
+  {
+    "id": 138,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "VectorDesign Studio",
+    "companyName": "Creative Byte Lab",
+    "description": "Create scalable vector graphics, icons, and illustrations on mobile devices.",
+    "size": 112,
+    "reviews": 10500,
+    "ratingAvg": 4.3,
+    "downloads": 420000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 5500 }
+    ]
+  },
+  {
+    "id": 139,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "RunPacer GPS",
+    "companyName": "HealthTech Solutions",
+    "description": "Track running routes, pace, elevation, and distance using GPS mapping.",
+    "size": 42,
+    "reviews": 27000,
+    "ratingAvg": 4.7,
+    "downloads": 1300000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 5800 },
+      { "name": "5 star", "count": 19000 }
+    ]
+  },
+  {
+    "id": 140,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "CamGuard Privacy",
+    "companyName": "Shield Sec Tech",
+    "description": "Disable camera and microphone hardware access with a single security toggle.",
+    "size": 14,
+    "reviews": 16500,
+    "ratingAvg": 4.5,
+    "downloads": 720000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "id": 141,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "SmartBudget Planner",
+    "companyName": "FinSmart Apps",
+    "description": "Set envelope budgeting rules, auto-categorize spending, and hit savings goals.",
+    "size": 27,
+    "reviews": 8400,
+    "ratingAvg": 4.6,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 550 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 5400 }
+    ]
+  },
+  {
+    "id": 142,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "MechWars Online",
+    "companyName": "Starlight Interactive",
+    "description": "Engage in competitive 5v5 robot combat in customizable futuristic arenas.",
+    "size": 950,
+    "reviews": 62000,
+    "ratingAvg": 4.5,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 1800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 4500 },
+      { "name": "4 star", "count": 14500 },
+      { "name": "5 star", "count": 40000 }
+    ]
+  },
+  {
+    "id": 143,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "LingoCards German",
+    "companyName": "Polyglot Labs",
+    "description": "Master essential German words through visual association and spaced flashcards.",
+    "size": 55,
+    "reviews": 7200,
+    "ratingAvg": 4.7,
+    "downloads": 280000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 340 },
+      { "name": "4 star", "count": 1700 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "id": 144,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "MindPal Sleep",
+    "companyName": "Inner Peace Inc.",
+    "description": "Guided relaxation and bedtime breathing routines for deeper sleep.",
+    "size": 41,
+    "reviews": 9800,
+    "ratingAvg": 4.8,
+    "downloads": 420000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 320 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 7200 }
+    ]
+  },
+  {
+    "id": 145,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "SmartDrive Backup",
+    "companyName": "Apex Digital Tools",
+    "description": "Automatically back up mobile photos, videos, and contacts to secure cloud storage.",
+    "size": 33,
+    "reviews": 31000,
+    "ratingAvg": 4.3,
+    "downloads": 1600000,
+    "ratings": [
+      { "name": "1 star", "count": 1300 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 3100 },
+      { "name": "4 star", "count": 8700 },
+      { "name": "5 star", "count": 17000 }
+    ]
+  },
+  {
+    "id": 146,
+    "image": "https://i.ibb.co/wZGB93RG/demo-app-1.webp",
+    "title": "VFXVideo Creator",
+    "companyName": "Creative Byte Lab",
+    "description": "Add special effects, explosion animations, and sci-fi elements to video clips.",
+    "size": 240,
+    "reviews": 18500,
+    "ratingAvg": 4.2,
+    "downloads": 790000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 4700 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "id": 147,
+    "image": "https://i.ibb.co/TMHm7FTQ/demo-app-2.webp",
+    "title": "WorkoutPlanner Pro",
+    "companyName": "HealthTech Solutions",
+    "description": "Custom gym workout builder featuring progressive overload tracking.",
+    "size": 50,
+    "reviews": 21000,
+    "ratingAvg": 4.7,
+    "downloads": 980000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 4400 },
+      { "name": "5 star", "count": 15000 }
+    ]
+  },
+  {
+    "id": 148,
+    "image": "https://i.ibb.co/23CnSG05/demo-app-3.webp",
+    "title": "SecureVault File",
+    "companyName": "Shield Sec Tech",
+    "description": "Encrypt sensitive files with AES-256 before uploading to public cloud services.",
+    "size": 22,
+    "reviews": 14200,
+    "ratingAvg": 4.6,
+    "downloads": 610000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 770 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "id": 149,
+    "image": "https://i.ibb.co/nN77LDGC/demo-app-4.webp",
+    "title": "FinCalc Suite",
+    "companyName": "FinSmart Apps",
+    "description": "All-in-one financial calculator for loans, retirement funds, and ROI estimation.",
+    "size": 19,
+    "reviews": 6800,
+    "ratingAvg": 4.5,
+    "downloads": 260000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 420 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 4400 }
+    ]
+  },
+  {
+    "id": 150,
+    "image": "https://i.ibb.co/mC6mr6yF/demo-app-5.webp",
+    "title": "Galaxy Explorer Online",
+    "companyName": "Starlight Interactive",
+    "description": "Fly through procedural star systems, trade resources, and fight space pirates.",
+    "size": 870,
+    "reviews": 49000,
+    "ratingAvg": 4.4,
+    "downloads": 2400000,
+    "ratings": [
+      { "name": "1 star", "count": 1600 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 3900 },
+      { "name": "4 star", "count": 11400 },
+      { "name": "5 star", "count": 31000 }
+    ]
+  },
+  {
+    "id": 151,
+    "image": "https://i.ibb.co/hJybWdys/demo-app-6.webp",
+    "title": "Polyglot Flashcards",
+    "companyName": "Polyglot Labs",
+    "description": "Customizable multi-language flashcard deck creator with cloud sync.",
+    "size": 42,
+    "reviews": 8900,
+    "ratingAvg": 4.6,
+    "downloads": 340000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 490 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  }
+]
