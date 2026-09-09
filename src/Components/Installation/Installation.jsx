@@ -2,11 +2,14 @@ import React, { useEffect, useState } from "react";
 import { ImDropbox } from "react-icons/im";
 import { getInstalledApps } from "../../Pages/addToDB";
 import { MdOutlineFileDownload } from "react-icons/md";
-import { FaStar } from "react-icons/fa";
+// import { FaStar } from "react-[#001931]";
+import { FaStar as FaStarIcon } from "react-icons/fa";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 const Installation = () => {
   const [apps, setApps] = useState([]);
-  const [sortOrder, setSortOrder] = useState(""); // সর্টিং স্টেট
+  const [sortOrder, setSortOrder] = useState("");
 
   useEffect(() => {
     const installedData = getInstalledApps();
@@ -17,9 +20,9 @@ const Installation = () => {
     const updateApps = apps.filter((app) => app.id !== id);
     setApps(updateApps);
     localStorage.setItem("installedApps", JSON.stringify(updateApps));
+    toast.warning("App uninstalled successfully!");
   };
 
-  // সর্টিং হ্যাণ্ডলার
   const handleSort = (order) => {
     setSortOrder(order);
     const detailsElement = document.querySelector("details.dropdown");
@@ -28,7 +31,6 @@ const Installation = () => {
     }
   };
 
-  // অরজিনাল স্টেট ঠিক রেখে সর্টিং কপি বের করা
   const sortedApps = [...apps].sort((a, b) => {
     const sizeA = parseFloat(a.size) || 0;
     const sizeB = parseFloat(b.size) || 0;
@@ -40,6 +42,9 @@ const Installation = () => {
 
   return (
     <div className="bg-[#D9D9D9] min-h-screen pb-10">
+      {/* Toast Notification Container */}
+      <ToastContainer position="top-right" autoClose={3000} />
+
       {/* Installation Heading Section */}
       <div className="pt-10">
         <h2 className="flex justify-center items-center gap-3 text-[#001931] text-3xl md:text-5xl font-bold">
@@ -110,7 +115,7 @@ const Installation = () => {
                     </p>
 
                     <p className="flex items-center gap-1">
-                      <FaStar className="text-amber-500 text-sm" />
+                      <FaStarIcon className="text-amber-500 text-sm" />
                       {app.ratingAvg}
                     </p>
 
